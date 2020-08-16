@@ -18,9 +18,7 @@ tables.
  
 > 不，美国人说，我们的家禽很好，只是我们使用了另一种清洗方式。
 * fowl 家禽
-* 
-* 
-* 
+
 > These days, it is differences in national regulations, far more than tariffs, that put sand in the
 wheels of trade between rich countries.
  
@@ -28,15 +26,12 @@ wheels of trade between rich countries.
 * national regulation 国家规范
 * tariffs 关税
 * put sand in the wheels 妨碍，阻碍
-* 
  
 > It is not just farmers who are complaining.
  
 > 并不仅仅是农民在抱怨。
 * complaining 抱怨
-* 
-* 
-* 
+
  
 > An electric razor that meets the European Union's safety standards must be approved by
 American testers before it can be sold in the United States, and an American-made dialysis
@@ -54,16 +49,13 @@ machine needs the EU's okay before it hits the market in Europe.
 > 碰巧在欧洲使用安全的剃须刀不大可能使美国人触电身亡，
 * as it happens 碰巧，偶然
 * unlikely  to electrocute Americans 不大可能使美国人触电身亡
-* 
-* 
+
  
 > So, ask businesses on both sides of the Atlantic, why have two lots of tests where one would do?
  
 > 因此，大西洋两岸的企业都在问，当一套测试可以解决问题时，为什么需要两套呢？
 * both sides of ths Atlantic 大西洋两岸的企业
-* 
-* 
-* 
+
  
 > Politicians agree, in principle, so America and the EU have been trying to reach a deal which
 would eliminate the need to double-test many products.
@@ -80,8 +72,7 @@ would eliminate the need to double-test many products.
 > 他们希望尽早达成协议，为5月28日举行的美国和欧洲贸易的最高通级会议作准备。
 * They hope to finish in time 他们希望及时完成
 * trade summit between America and the EU on May 28th 5月28日，美国和欧盟举行贸易峰会
-* 
-* 
+
  
 > Although negotiators are optimistic, the details are complex enough that they may be
 hard-pressed to get a deal at all.
@@ -90,17 +81,13 @@ hard-pressed to get a deal at all.
 致。
 * negotiators are optimistic 谈判代表持乐观态度
 * they may be hard-pressed to get a deal at all 他们可能很难达成一致
-* 
-* 
+
  
 > Why? One difficulty is to construct the agreements.
  
 > 为什么呢？困难之一是起草这些协议。
 * construct the areements 起草协议
-* 
-* 
-* 
- 
+
 > The Americans would happily reach one accord on standards for medical devices and then
 hammer out different pacts covering, say, electronic goods and drug manufacturing.
  
@@ -116,13 +103,9 @@ hammer out different pacts covering, say, electronic goods and drug manufacturin
 > 欧洲人遵循优良的大陆传统，则希望就普遍的原则取得一致，
 * following fine continental traditions 遵循优良的大陆传统
 *  wants agreement on general principles 希望就普遍的原则取得一致
-* 
-* 
+
  
 > which could be applied to many types of products and perhaps extended to other countries.
  
 > 而这些原则适用于许多不同产品，同时可能延伸到其它国家。
-* 
-* 
-* 
-* 
+ 
