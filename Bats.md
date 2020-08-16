@@ -10,16 +10,9 @@
 > 
 > Not all sounds made by animals serve as language, 
 > 动物发出的声音不都是用作语言交际
-> 
-
-and we have only to turn to that extraordinary discovery of echo-location in bats to see a case in which the voice plays a strictly utilitarian role.
+> and we have only to turn to that extraordinary discovery of echo-location in bats to see a case in which the voice plays a strictly utilitarian role.
 > 我们只要看一看蝙蝠回声定位这一极不寻常的发现，就可以探究一下声音在什么情况下有绝对的实用价值
 > extraoridinaty discovery 不寻常的发现
-> 
-
-
-> 
-> 
 > 
 > 
 > To get a full appreciation of what this means we must turn first to some recent human inventions.
@@ -40,9 +33,7 @@ back.
 > 固体障碍物越远，回声返回所用时间就越长。
 > solid obstruction 固体障碍物
 > elapse 消逝
-> 
-> 
- 
+>  
 > A sound made by tapping on the hull of a ship will be reflected from the sea bottom, 
  
 > 敲打船体所发了的声音会从海底传回来
@@ -65,15 +56,11 @@ at that point can be calculated.
 > Every solid object will reflect a sound, varying according to the size and nature of the object.
 > 任何固体者反射声音，反射的声音因物体的大小和性质的不同而不同
 > 
-> 
-> 
-> 
+ 
 > A shoal of fish will do this.
 > 鱼群也反射声音。
 > shoal 浅滩，沙洲；鱼群；潜在危险
-> 
-> 
-> 
+ 
 > So it is a comparatively simple step from locating the sea bottom to locating a shoal of fish.
 > 从测定海深到测定鱼群，这一进展比较容易。
 > comparatively 比较的 相当的
@@ -86,7 +73,6 @@ to tell if it is herring, cod, or other well-known fish, by the pattern of its e
 > herring 鲱鱼 cod 鳕鱼
 > by the pattern of its echo. 通过它回声的方式。
 > 
-> 
  
 > It has been found that certain bats emit squeaks and by receiving the echoes, they can locate and
 steer clear of obstacles -- or locate flying insects on which they feed.
@@ -96,11 +82,8 @@ steer clear of obstacles -- or locate flying insects on which they feed.
 > certain bats emit squeaks 某些蝙蝠发出吱吱声
 > steer clear of obstacles 避开障碍物
 > 
-> 
- 
+
 > This echo-location in bats is often compared with radar, the principle of which is similar.
 > 蝙蝠这种回声定位常常可与雷达相比较，其原理是相似的。
 > 
-> 
-> 
-> 
+
